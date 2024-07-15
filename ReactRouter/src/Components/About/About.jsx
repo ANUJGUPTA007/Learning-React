@@ -1,0 +1,12 @@
+import React from 'react'
+
+function About() {
+  return (
+    < div className=' bg-black h-96 text-center  '>
+    <div className='text-3xl text-cyan-400 pt-7 font-bold'>About</div>
+    <p className='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui asperiores dolor, nihil laboriosam soluta ex esse dolorem recusandae iure voluptatem quisquam commodi molestiae alias sint, saepe repellendus suscipit perferendis ad officia totam! Tenetur, accusamus corrupti ut deserunt enim culpa modi Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ipsam eligendi, quam molestiae, blanditiis provident id accusamus amet animi iste, debitis voluptas dolorem dolorum hic minima harum mollitia necessitatibus est. Cumque totam ex illum alias, recusandae, iure deserunt ipsa animi nostrum id, illo minima voluptate laudantium amet voluptatibus asperiores harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae totam recusandae fugiat? Commodi nostrum maiores quisquam quod assumenda distinctio ut eum odit, harum nulla mollitia aliquam asperiores dignissimos nesciunt sapiente laborum ducimus quis dolor hic unde quo? Architecto itaque, cum repudiandae quo expedita dolorum nobis magni, maxime dolores nesciunt perferendis rem quis corporis nam optio est molestiae? Consequatur eveniet molestiae temporibus dolorum provident nulla vel impedit quibusdam. Dolore libero dicta dolores repudiandae consectetur. Nemo dolore numquam officia ea exercitationem quis accusantium amet, sequi quia explicabo perspiciatis laborum iusto aspernatur provident alias nam at nostrum? Obcaecati vel cum omnis quod iure expedita enim vero! Delectus impedit placeat tenetur, similique, est quam dolores eveniet, dolore cupiditate eligendi dolorum odio dolorem velit deleniti. Fugiat corporis ipsam quidem quam cupiditate delectus nemo voluptas, rerum minima, perspiciatis ipsa nostrum sed ex a similique eligendi, rem laboriosam reiciendis laudantium corrupti expedita! Eligendi provident dignissimos minima, molestias reprehenderit laudantium velit corporis hic itaque quod assumenda nam iusto ad? Impedit vero necessitatibus obcaecati voluptas sunt id ad architecto, ab delectus est placeat dolore iste temporibus, cumque provident in nostrum molestias nobis esse itaque nam quo! Fuga voluptate, corporis exercitationem impedit recusandae labore, quos eveniet repellendus, quae magni tempora.</p>
+    </div>
+  )
+}
+
+export default About
